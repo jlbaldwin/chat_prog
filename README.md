@@ -1,9 +1,10 @@
-#client/server chat
+# client/server chat
 
-Description:
+## Description:
 This project consists of two programs: chatserve and chatclient. chatserve is written in python and chatclient is written in C.
 chatclient.c needs to be compiled before it is run. 
 
+## Instructions:
 To compile chatclient.c:
 From command line: make, or gcc -o chatclient chatclient.c
 This will create the executable "chatclient"
