@@ -1,8 +1,4 @@
 """
-NAME:       Jonathan Baldwin (baldwijo)
-COURSE:     CS372 Intro to Computer Networks 
-LAST MOD:   Feb 9, 2019
-PROG NAME:  chatserve
 PROG DESC:  Server for a chat program. Server starts on a port recevied from the
             command line. Server waits for contact then begins chat session. If 
             server or client quit the session with "\quit" command, the server 
@@ -11,7 +7,6 @@ PROG DESC:  Server for a chat program. Server starts on a port recevied from the
             SIGINT to close server.
             To run: python3 chatserve <port#> 
 CITATION:   This code is influenced by:
-            CS372 textbook example - Computer Networking, 7th ed, Kurose, pg 168 
             www.geeksforgeeks.org/simple-chat-room-using-python 
 """
 
