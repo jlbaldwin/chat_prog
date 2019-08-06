@@ -1,8 +1,4 @@
 /******************************************************************************
- * NAME:       Jonathan Baldwin (baldwijo)
- * COURSE:     CS372 Intro to Computer Networks
- * LAST MOD:   Feb 9, 2019
- * PROG NAME:  chatclient
  * PROG DESC:  Client for chat program. Client connects to server by host IP
  *             and port provided from command line. Once connected, client 
  *             sends first message then waits for response from server. The
