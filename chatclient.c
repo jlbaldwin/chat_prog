@@ -12,7 +12,6 @@
  * CITATION:   This code has been influenced by the following:
  *             Beej's Guide to Network Programming
  *             www.linuxhowtos.og/C_C++/socket.htm
- *             OSU CS344 Operating Systems, C client code, B. Brewster 
  *******************************************************************************/
 
 #include <stdio.h>
